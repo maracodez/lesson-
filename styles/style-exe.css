@@ -1,0 +1,64 @@
+body {
+  font-family: Arial;
+}
+
+p{
+  font-size: 30px;
+}
+
+.add-button {
+  background-color: rgb(255, 216, 20);
+  font-size: 15px;
+  border: none;
+  padding: 12px 30px;
+  border-radius: 50px;
+}
+
+.button1 {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 15px 30px;
+  border-radius: 10px;
+  font-size: 15px;
+  margin-right: 20px;
+}
+
+.button2 {
+  background-color: rgb(230, 230, 230);
+  font-size: 15px;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 10px;
+}
+
+.toggle-button {
+  width: 100px;
+  height: 50px;
+  background-color: #ccc;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.is-toggled {
+  background-color: black;
+  color: white;
+}
+
+
+.cost-input {
+  font-size: 15px;
+  padding: 10px;
+}
+
+.calculate-button {
+  background-color: green;
+  color: white;
+  border: none;
+  font-size: 15px;
+  padding: 12px 15px;
+  cursor: pointer;
+}
+
